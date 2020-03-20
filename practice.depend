@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1583447128 source:e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\file.c
+	"file.h"
+
+1583372669 e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1583373974 source:e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\main.c
+	<pthread.h>
+	"thread.h"
+	"file.h"
+	"console.h"
+	"agenda.h"
+
+1583372638 e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\console.h
+	<windows.h>
+	<unistd.h>
+	"file.h"
+	"agenda.h"
+
+1583374100 e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\thread.h
+	<windows.h>
+	"file.h"
+	"agenda.h"
+
+1583344278 source:e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\thread.c
+	"thread.h"
+
+1583373885 source:e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\console.c
+	"console.h"
+
+1583371497 source:e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\agenda.c
+	"agenda.h"
+
+1583372795 e:\dropbox\tecnicatura\2do cuatrimestre\laboratorio ii\practice\agenda.h
+	"file.h"
+
